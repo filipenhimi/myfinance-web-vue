@@ -10,6 +10,12 @@ sidebar vh-100 pt-4">
                     <li class="nav-item">
                         <RouterLink class="nav-link" to="/about">About</RouterLink>
                     </li>
+                    <li class="nav-item">
+                        <RouterLink class="nav-link" to="/planoconta">Plano Conta</RouterLink>
+                    </li>
+                    <li class="nav-item">
+                        <RouterLink class="nav-link" to="/transacoes">Transações Financeiras</RouterLink>
+                    </li>
                 </ul>
             </nav>
             <main class="col-md-10 pt-4">
